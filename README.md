@@ -1,5 +1,4 @@
-Dieses Repository umfasst meine Bachelorarbeit "Konzeption und prototypische Entwicklung einer Rules-Engine für die automatisierte Erstellung von Asset Administration Shells" sowie alle relevanten Anhänge. Die Bachelorarbeit wurde in Zusammenarbeit mit der XITASO GmbH durchgeführt.
-
+Dieses Repository umfasst meine Bachelorarbeit "Konzeption und prototypische Entwicklung einer Rules-Engine für die automatisierte Erstellung von Asset Administration Shells" sowie alle relevanten Anhänge. 
 Der Ordner ist wie folgt aufgebaut:
 
 - `thesis.pdf`: Enthält die Bachelorarbeit im PDF-Format.
