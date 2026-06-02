@@ -1,3 +1,6 @@
+> [!WARNING]
+> Der Mnestix-AAS Generator wurde seit meiner Bachelorarbeit weiterentwickelt. Die aktuelle Dokumentation finden Sie im [Repo des AAS Generators](https://github.com/eclipse-mnestix/mnestix-aas-generator).
+
 Dieses Repository umfasst meine Bachelorarbeit "Konzeption und prototypische Entwicklung einer Rules-Engine für die automatisierte Erstellung von Asset Administration Shells" sowie alle relevanten Anhänge. 
 Der Ordner ist wie folgt aufgebaut:
 
